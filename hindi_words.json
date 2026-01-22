@@ -1,0 +1,186 @@
+{
+  "words": [
+    {
+      "word": "पानी",
+      "meaning": "Water",
+      "example": "पानी पीना ज़रूरी है",
+      "difficulty": "easy"
+    },
+    {
+      "word": "घर",
+      "meaning": "House",
+      "example": "यह मेरा घर है",
+      "difficulty": "easy"
+    },
+    {
+      "word": "फल",
+      "meaning": "Fruit",
+      "example": "मुझे फल खाना पसंद है",
+      "difficulty": "easy"
+    },
+    {
+      "word": "किताब",
+      "meaning": "Book",
+      "example": "यह मेरी किताब है",
+      "difficulty": "easy"
+    },
+    {
+      "word": "माँ",
+      "meaning": "Mother",
+      "example": "माँ मुझे प्यार करती है",
+      "difficulty": "easy"
+    },
+    {
+      "word": "पिता",
+      "meaning": "Father",
+      "example": "पिता काम पर गए हैं",
+      "difficulty": "easy"
+    },
+    {
+      "word": "दूध",
+      "meaning": "Milk",
+      "example": "दूध सेहत के लिए अच्छा है",
+      "difficulty": "easy"
+    },
+    {
+      "word": "स्कूल",
+      "meaning": "School",
+      "example": "मैं स्कूल जाता हूँ",
+      "difficulty": "easy"
+    },
+    {
+      "word": "गेंद",
+      "meaning": "Ball",
+      "example": "बच्चे गेंद खेल रहे हैं",
+      "difficulty": "easy"
+    },
+    {
+      "word": "कुत्ता",
+      "meaning": "Dog",
+      "example": "कुत्ता भौंक रहा है",
+      "difficulty": "easy"
+    },
+
+    {
+      "word": "विद्यालय",
+      "meaning": "School",
+      "example": "बच्चे विद्यालय जाते हैं",
+      "difficulty": "medium"
+    },
+    {
+      "word": "शिक्षक",
+      "meaning": "Teacher",
+      "example": "शिक्षक पढ़ा रहे हैं",
+      "difficulty": "medium"
+    },
+    {
+      "word": "परिवार",
+      "meaning": "Family",
+      "example": "मेरा परिवार बड़ा है",
+      "difficulty": "medium"
+    },
+    {
+      "word": "दोस्त",
+      "meaning": "Friend",
+      "example": "मेरा दोस्त अच्छा है",
+      "difficulty": "medium"
+    },
+    {
+      "word": "खेलना",
+      "meaning": "To play",
+      "example": "बच्चे खेलना पसंद करते हैं",
+      "difficulty": "medium"
+    },
+    {
+      "word": "सुबह",
+      "meaning": "Morning",
+      "example": "मैं सुबह जल्दी उठता हूँ",
+      "difficulty": "medium"
+    },
+    {
+      "word": "शाम",
+      "meaning": "Evening",
+      "example": "शाम को टहलना अच्छा लगता है",
+      "difficulty": "medium"
+    },
+    {
+      "word": "बाज़ार",
+      "meaning": "Market",
+      "example": "माँ बाज़ार गई हैं",
+      "difficulty": "medium"
+    },
+    {
+      "word": "कपड़े",
+      "meaning": "Clothes",
+      "example": "कपड़े साफ़ होने चाहिए",
+      "difficulty": "medium"
+    },
+    {
+      "word": "खुशी",
+      "meaning": "Happiness",
+      "example": "खुशी बांटने से बढ़ती है",
+      "difficulty": "medium"
+    },
+
+    {
+      "word": "परिश्रम",
+      "meaning": "Hard work",
+      "example": "परिश्रम से सफलता मिलती है",
+      "difficulty": "hard"
+    },
+    {
+      "word": "आत्मविश्वास",
+      "meaning": "Confidence",
+      "example": "आत्मविश्वास से काम करें",
+      "difficulty": "hard"
+    },
+    {
+      "word": "अनुशासन",
+      "meaning": "Discipline",
+      "example": "अनुशासन जीवन में ज़रूरी है",
+      "difficulty": "hard"
+    },
+    {
+      "word": "सफलता",
+      "meaning": "Success",
+      "example": "सफलता मेहनत से मिलती है",
+      "difficulty": "hard"
+    },
+    {
+      "word": "संघर्ष",
+      "meaning": "Struggle",
+      "example": "संघर्ष से इंसान मजबूत बनता है",
+      "difficulty": "hard"
+    },
+    {
+      "word": "प्रेरणा",
+      "meaning": "Inspiration",
+      "example": "माता-पिता मेरी प्रेरणा हैं",
+      "difficulty": "hard"
+    },
+    {
+      "word": "जिम्मेदारी",
+      "meaning": "Responsibility",
+      "example": "हमें अपनी जिम्मेदारी निभानी चाहिए",
+      "difficulty": "hard"
+    },
+    {
+      "word": "सम्मान",
+      "meaning": "Respect",
+      "example": "बड़ों का सम्मान करें",
+      "difficulty": "hard"
+    },
+    {
+      "word": "संवेदनशील",
+      "meaning": "Sensitive",
+      "example": "वह बहुत संवेदनशील बच्चा है",
+      "difficulty": "hard"
+    },
+    {
+      "word": "स्वतंत्रता",
+      "meaning": "Freedom",
+      "example": "स्वतंत्रता सबका अधिकार है",
+      "difficulty": "hard"
+    }
+  ]
+}
