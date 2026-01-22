@@ -1,6 +1,37 @@
 {
   "words": [
     {
+  "word": "पेड़",
+  "meaning": "Tree",
+  "example": "पेड़ हमें ऑक्सीजन देते हैं",
+  "difficulty": "easy"
+},
+{
+  "word": "पक्षी",
+  "meaning": "Bird",
+  "example": "पक्षी आकाश में उड़ते हैं",
+  "difficulty": "easy"
+},
+{
+  "word": "सूरज",
+  "meaning": "Sun",
+  "example": "सूरज सुबह उगता है",
+  "difficulty": "easy"
+},
+{
+  "word": "बारिश",
+  "meaning": "Rain",
+  "example": "बारिश में हमें छाता चाहिए",
+  "difficulty": "medium"
+},
+{
+  "word": "खिलौना",
+  "meaning": "Toy",
+  "example": "बच्चों को खिलौना पसंद है",
+  "difficulty": "easy"
+}
+
+    {
       "word": "पानी",
       "meaning": "Water",
       "example": "पानी पीना ज़रूरी है",
